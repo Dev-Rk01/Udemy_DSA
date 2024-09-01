@@ -1,0 +1,69 @@
+# Ignore node_modules folder (for Node.js projects)
+node_modules/
+
+# Ignore the .vscode folder (contains editor-specific settings)
+.vscode/
+
+# Ignore build output directories
+dist/
+out/
+build/
+
+# Ignore dependency directories
+packages/
+bin/
+obj/
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Ignore environment variables files
+.env
+.env.local
+.env.*.local
+
+# Ignore coverage directory
+coverage/
+
+# Ignore TypeScript build outputs
+*.tsbuildinfo
+*.tscache
+*.d.ts
+
+# Ignore IDE-specific files
+.idea/
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Ignore system files
+Thumbs.db
+*.DS_Store
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+# Ignore MacOS-specific files
+.DS_Store
+
+# Ignore Windows-specific files
+Thumbs.db
