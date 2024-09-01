@@ -1,1 +1,1 @@
-# Udemy_DSA
+# JS_DSA
