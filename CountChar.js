@@ -1,4 +1,0 @@
-countChar(String, char)
-{
-    
-}
